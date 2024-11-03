@@ -11,5 +11,6 @@ for k,v in d.items():
     if v=="Low":
         m.append(k)
 print("priority list",m)
+print("highest priority",m[0])
 
 
